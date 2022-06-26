@@ -1,4 +1,4 @@
-import Resturent from "./components/Basics/Resturent";
+import Resturent from "./components/Meals/Resturent";
 
 function App() {
   return (
